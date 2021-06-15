@@ -11,6 +11,8 @@ if Is_A_Perfect_Number (number):
 else:
     print('%d is NOT Perfect' %(number))
 
+    
+    
 
 def Is_An_Abundant_Number(n):
     total = 0
